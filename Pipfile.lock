@@ -122,13 +122,6 @@
             "index": "pypi",
             "version": "==3.1.4"
         },
-        "django-allauth": {
-            "hashes": [
-                "sha256:0bfb975fe46e8bff67effb3fa46dea5acd7c66140cb78b5ed92c533f639898e2"
-            ],
-            "index": "pypi",
-            "version": "==0.43.0"
-        },
         "django-crispy-forms": {
             "hashes": [
                 "sha256:92ed3fdc52c08d21d60adbb9de24e432c590e66e894f43cee0974fc959209976",
