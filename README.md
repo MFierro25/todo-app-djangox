@@ -1,5 +1,8 @@
 > A batteries-included Django starter project. For a production-ready version see the book [Django for Professionals](https://djangoforprofessionals.com).
 
+## Recent PR:
+
+
 ## 🚀 Features
 
 - Django 3.1 & Python 3.8
